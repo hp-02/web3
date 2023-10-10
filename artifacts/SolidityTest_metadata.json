@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "callKeccak256",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "result",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"practical10c.sol": "SolidityTest"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"practical10c.sol": {
+			"keccak256": "0x5738169301605b624f9b6c672c84aeb413769c8332a7d87f3374bd3df63e977d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e236e92108d2e09666004c05119603ebc416c19b6d5743127524e4ea8940c0a4",
+				"dweb:/ipfs/QmPzc4z6ntkB2CqaFDDVXcUkGEJfp5BBSedF27AiQyRLCh"
+			]
+		}
+	},
+	"version": 1
+}
